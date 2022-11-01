@@ -1,0 +1,3 @@
+/Users/linsu/Desktop/2022/OS/a2/cmake-build-debug/CMakeFiles/a2.dir
+/Users/linsu/Desktop/2022/OS/a2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/linsu/Desktop/2022/OS/a2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
